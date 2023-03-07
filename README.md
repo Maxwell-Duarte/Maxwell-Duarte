@@ -2,8 +2,8 @@
 ## Iniciate na programação,em breve com muitos projetos 
  <div>
    <a href="https://github.com/Maxwell-Duarte">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maxwell-Duarte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell-Duarte&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maxwell-Duarte&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell-Duarte&layout=compact&langs_count=6&theme=highcontras"/>
 
 </div>
 <div style="display: inline_block"><br>
